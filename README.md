@@ -42,6 +42,5 @@ Screen Shots of the site.
 
 > Comment Section ( People can comment and reply to others :fire::outbox_tray:)
 
-# Contributors :man_technologist:
-[KS Hari Narayanan](https://github.com/ksharinarayanan)
+
 
