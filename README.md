@@ -1,7 +1,7 @@
 # Tech Snippets - A tech blogging site
 ### Tech Blogging site - Made responsive to mobile and computers using Media queries and Bootstrap
 
-## [The Site is Live here!](http://tech-snippets.azurewebsites.net/) :100::hearts:
+
 
 # Technologies Used :bulb:
 1. **Frontend -** HTML & CSS
